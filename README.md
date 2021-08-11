@@ -11,7 +11,7 @@
 
 ### 💪 I'm currently working on:
 
-- [NoNonsenseCooking][nnc] - A no-nonsense recipe website with curated recipes. No ads, no trackers, no nonsense
+- [NoNonsenseCooking][nncgh] - A no-nonsense recipe website with curated recipes. No ads, no trackers, no nonsense
 - [freecloud][fc] - Think Nextcloud, but cloud-native
 
 ### 💬 Connect with me:
@@ -20,11 +20,10 @@
 - [🐣 Via Twitter][twitter]
 - [✉️ Or via mail][mail]
 
-<br/>
-
 ### 📕 My latest [blog][website] posts:
 
 <!-- BLOG_POSTS:START -->
+
 - [IKEA Fytur smart blinds with Homeassistant and deCONZ](https://riesinger.dev/posts/ikea-fyrtur-homassistant-deconz/)
 - [Checking Out SerenityOS](https://riesinger.dev/posts/checking-out-serenity-os/)
 - [React Hooks with Typescript](https://riesinger.dev/posts/react-hooks-typescript/)
@@ -46,4 +45,5 @@
 [twitter]: https://twitter.com/pascalriesinger
 [mail]: mailto:mail@pascal-riesinger.de
 [nnc]: https://nononsense.cooking
+[nncgh]: https://github.com/riesinger/nononsensecooking
 [fc]: https://github.com/freecloudio
