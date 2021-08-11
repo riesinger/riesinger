@@ -23,7 +23,6 @@
 ### 📕 My latest [blog][website] posts:
 
 <!-- BLOG_POSTS:START -->
-
 - [IKEA Fytur smart blinds with Homeassistant and deCONZ](https://riesinger.dev/posts/ikea-fyrtur-homassistant-deconz/)
 - [Checking Out SerenityOS](https://riesinger.dev/posts/checking-out-serenity-os/)
 - [React Hooks with Typescript](https://riesinger.dev/posts/react-hooks-typescript/)
