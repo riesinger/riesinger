@@ -23,11 +23,11 @@
 ### 📕 My latest [blog][website] posts:
 
 <!-- BLOG_POSTS:START -->
+- [Samsung SSDs with ZFS](https://riesinger.dev//posts/samsung-ssds-with-zfs)
 - [Why I moved my site to Next.JS](https://riesinger.dev//posts/why-i-moved-my-site-to-nextjs)
 - [IKEA Fyrtur smart blinds with Home Assistant and deCONZ](https://riesinger.dev//posts/ikea-fyrtur-homeassistant-deconz)
 - [Checking Out SerenityOS](https://riesinger.dev//posts/checking-out-serenity-os)
 - [Shucking Seagate Expansion Desktop Drives](https://riesinger.dev//posts/shucking-seagate-expansion-desktop-drives)
-- [Hosting Static Files for Free](https://riesinger.dev//posts/hosting-static-files-for-free)
 <!-- BLOG_POSTS:END -->
 
 ### 🍔 Latest recipes on [NoNonsenseCooking][nnc]:
