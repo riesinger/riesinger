@@ -14,3 +14,4 @@ jobs:
         with:
           feed_list: "https://nononsense.cooking/rss/feed.xml"
           comment_tag_name: "RECIPES"
+          commit_message: "Updated README with the latest recipes"
