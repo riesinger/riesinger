@@ -40,9 +40,9 @@
 - [Spinach Wraps filled with Dill Cream](https://nononsense.cooking/en-US/r/KUvCHXi5t8/spinach-wraps-filled-with-dill-cream)
 <!-- RECIPES:END -->
 
-[website]: https://riesinger.dev
+[website]: https://riesinger.dev?utm_source=github.com&utm_medium=profile
 [twitter]: https://twitter.com/pascalriesinger
 [mail]: mailto:mail@pascal-riesinger.de
-[nnc]: https://nononsense.cooking
+[nnc]: https://nononsense.cooking?utm_source=github.com&utm_medium=profile
 [nncgh]: https://github.com/riesinger/nononsensecooking
 [fc]: https://github.com/freecloudio
