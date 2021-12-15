@@ -33,11 +33,11 @@
 ### 🍔 Latest recipes on [NoNonsenseCooking][nnc]:
 
 <!-- RECIPES:START -->
+- [Carrot and Cabbage Salad](https://nononsense.cooking/en-US/r/hFLfAfrezp/carrot-and-cabbage-salad)
 - [Simple Quesadillas](https://nononsense.cooking/en-US/r/WhkAMQbBqE/simple-quesadillas)
 - [Halloumi fries](https://nononsense.cooking/en-US/r/2IJ5-UnErv/halloumi-fries)
 - [Rice-Stuffed Bell Pepper](https://nononsense.cooking/en-US/r/YZvnsRZuuh/rice-stuffed-bell-pepper)
 - [Spinach Wraps filled with Dill Cream](https://nononsense.cooking/en-US/r/KUvCHXi5t8/spinach-wraps-filled-with-dill-cream)
-- [Simple Banana Icecream](https://nononsense.cooking/en-US/r/9ZHh13BR6p/simple-banana-icecream)
 <!-- RECIPES:END -->
 
 [website]: https://riesinger.dev
