@@ -23,11 +23,11 @@
 ### 📕 My latest [blog][website] posts:
 
 <!-- BLOG_POSTS:START -->
+- [Using Unmanic with VA-API in Docker](https://riesinger.dev//posts/unmanic-with-vaapi-in-docker)
 - [Samsung SSDs with ZFS](https://riesinger.dev//posts/samsung-ssds-with-zfs)
 - [Why I moved my site to Next.JS](https://riesinger.dev//posts/why-i-moved-my-site-to-nextjs)
 - [IKEA Fyrtur smart blinds with Home Assistant and deCONZ](https://riesinger.dev//posts/ikea-fyrtur-homeassistant-deconz)
 - [Checking Out SerenityOS](https://riesinger.dev//posts/checking-out-serenity-os)
-- [React Hooks with Typescript](https://riesinger.dev//posts/react-hooks-typescript)
 <!-- BLOG_POSTS:END -->
 
 ### 🍔 Latest recipes on [NoNonsenseCooking][nnc]:
