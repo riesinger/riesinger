@@ -33,11 +33,11 @@
 ### 🍔 Latest recipes on [NoNonsenseCooking][nnc]:
 
 <!-- RECIPES:START -->
+- [Spaghetti with Ham and Tomato Sauce](https://nononsense.cooking/en-US/r/oyB163evkI/spaghetti-with-ham-and-tomato-sauce)
 - [Baked Tomato Toasts](https://nononsense.cooking/en-US/r/UfAhh-SZ2v/baked-tomato-toasts)
 - [Teriyaki-Chili Noodles](https://nononsense.cooking/en-US/r/c4is0wjKaz/teriyaki-chili-noodles)
 - [Carrot and Cabbage Salad](https://nononsense.cooking/en-US/r/hFLfAfrezp/carrot-and-cabbage-salad)
 - [Simple Quesadillas](https://nononsense.cooking/en-US/r/WhkAMQbBqE/simple-quesadillas)
-- [Halloumi fries](https://nononsense.cooking/en-US/r/2IJ5-UnErv/halloumi-fries)
 <!-- RECIPES:END -->
 
 [website]: https://riesinger.dev?utm_source=github.com&utm_medium=profile
