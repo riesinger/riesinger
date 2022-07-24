@@ -23,11 +23,11 @@
 ### 📕 My latest [blog][website] posts:
 
 <!-- BLOG_POSTS:START -->
+- [Clearing the DNS cache on macOS](https://riesinger.dev//posts/clearing-dns-cache-macos)
 - [My Highly Available DNS setup with Blocky](https://riesinger.dev//posts/ha-dns-adblocking-with-blocky)
 - [Silencing your Fyrtur blinds with custom firmware](https://riesinger.dev//posts/silencing-fyrtur-blinds-with-custom-firmware)
 - [Using Unmanic with VA-API in Docker](https://riesinger.dev//posts/unmanic-with-vaapi-in-docker)
 - [Samsung SSDs with ZFS](https://riesinger.dev//posts/samsung-ssds-with-zfs)
-- [Why I moved my site to Next.JS](https://riesinger.dev//posts/why-i-moved-my-site-to-nextjs)
 <!-- BLOG_POSTS:END -->
 
 ### 🍔 Latest recipes on [NoNonsenseCooking][nnc]:
