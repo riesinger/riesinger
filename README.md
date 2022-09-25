@@ -12,6 +12,7 @@
 ### 💪 I'm currently working on:
 
 - [NoNonsenseCooking][nncgh] - A no-nonsense recipe website with curated recipes. No ads, no trackers, no nonsense
+- [plausible-exporter][plausibleexporter] - A Prometheus exporter for Plausible analytics. Get an overview of your website's metrics right in Grafana
 - [freecloud][fc] - Think Nextcloud, but cloud-native
 
 ### 💬 Connect with me:
@@ -45,4 +46,5 @@
 [mail]: mailto:mail@pascal-riesinger.de
 [nnc]: https://nononsense.cooking?utm_source=github.com&utm_medium=profile
 [nncgh]: https://github.com/riesinger/nononsensecooking
+[plausibleexporter]: https://github.com/riesinger/plausible-exporter
 [fc]: https://github.com/freecloudio
