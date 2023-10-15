@@ -14,7 +14,7 @@
 - [NoNonsenseCooking][nncgh] - A no-nonsense recipe website with curated recipes. No ads, no intrusive trackers, no nonsense
 - [plausible-exporter][plausibleexporter] - A Prometheus exporter for Plausible analytics. Get an overview of your website's metrics right in Grafana
 - [The KarlKB][karlkb] - My first completely custom split wireless keyboard, generated with Ergogen.
-- [freecloud][fc] - Think Nextcloud, but cloud-native
+- A secret project having to do with Notion 😉
 
 ### 💬 Connect with me:
 
