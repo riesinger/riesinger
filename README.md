@@ -11,6 +11,7 @@
 
 ### 💪 I'm currently working on:
 
+- [CheapShot][cheapshot] - A system for creating bullet-time pictures with cheap phone cameras
 - [NoNonsenseCooking][nncgh] - A no-nonsense recipe website with curated recipes. No ads, no intrusive trackers, no nonsense
 - [plausible-exporter][plausibleexporter] - A Prometheus exporter for Plausible analytics. Get an overview of your website's metrics right in Grafana
 - [The KarlKB][karlkb] - My first completely custom split wireless keyboard, generated with Ergogen.
@@ -50,3 +51,4 @@
 [plausibleexporter]: https://github.com/riesinger/plausible-exporter
 [karlkb]: https://github.com/riesinger/karlkb
 [fc]: https://github.com/freecloudio
+[cheapshot]: https://github.com/glidingthroughspace/cheapshot
