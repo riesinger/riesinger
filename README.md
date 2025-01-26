@@ -26,11 +26,11 @@
 ### 📕 My latest [blog][website] posts:
 
 <!-- BLOG_POSTS:START -->
-- [Exploring Notion&#39;s API](https://riesinger.dev/posts/exploring-notions-api)
-- [Clearing the DNS cache on macOS](https://riesinger.dev/posts/clearing-dns-cache-macos)
-- [My Highly Available DNS setup with Blocky](https://riesinger.dev/posts/ha-dns-adblocking-with-blocky)
-- [Silencing your Fyrtur blinds with custom firmware](https://riesinger.dev/posts/silencing-fyrtur-blinds-with-custom-firmware)
-- [Using Unmanic with VA-API in Docker](https://riesinger.dev/posts/unmanic-with-vaapi-in-docker)
+- [Cheapshot](https://riesinger.dev/projects/cheapshot/)
+- [Exploring Notion&#39;s API](https://riesinger.dev/posts/exploring-notions-api/)
+- [plausible-exporter](https://riesinger.dev/projects/plausible-exporter/)
+- [Clearing the DNS cache on macOS](https://riesinger.dev/posts/clearing-dns-cache-macos/)
+- [My Highly Available DNS setup with Blocky](https://riesinger.dev/posts/ha-dns-adblocking-with-blocky/)
 <!-- BLOG_POSTS:END -->
 
 ### 🍔 Latest recipes on [NoNonsenseCooking][nnc]:
