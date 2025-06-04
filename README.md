@@ -26,11 +26,11 @@
 ### 📕 My latest [blog][website] posts:
 
 <!-- BLOG_POSTS:START -->
+- [Building a RatRig V-Core 4](https://riesinger.dev/posts/building-ratrig-v-core-4/)
 - [Cheapshot](https://riesinger.dev/projects/cheapshot/)
 - [Exploring Notion&#39;s API](https://riesinger.dev/posts/exploring-notions-api/)
 - [plausible-exporter](https://riesinger.dev/projects/plausible-exporter/)
 - [Clearing the DNS cache on macOS](https://riesinger.dev/posts/clearing-dns-cache-macos/)
-- [My Highly Available DNS setup with Blocky](https://riesinger.dev/posts/ha-dns-adblocking-with-blocky/)
 <!-- BLOG_POSTS:END -->
 
 ### 🍔 Latest recipes on [NoNonsenseCooking][nnc]:
